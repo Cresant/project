@@ -43,7 +43,7 @@
         <org.springsecurity>4.2.1.RELEASE</org.springsecurity>
         <hibernate.version>4.3.5.Final</hibernate.version>
         <hibernate.validator>5.3.4.Final</hibernate.validator>
-        <jdbc.postgresql>9.3-1100-jdbc41</jdbc.postgresql>
+        <jdbc.postgresql>42.3.7</jdbc.postgresql>
         <thymeleaf.version>3.0.3.RELEASE</thymeleaf.version>
         <thymeleaf-extras-springsecurity4>3.0.1.RELEASE</thymeleaf-extras-springsecurity4>
         <bootstrap>4.0.0-alpha.6</bootstrap>
